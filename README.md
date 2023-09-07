@@ -15,7 +15,7 @@
 
 ## 🎨 Layout and Execution
 <p align="left">
-      <img src="demo/simon_record.gif" width="760" height="470"> 
+      <img src="demo/simon_record.gif" width="690" height="410"> 
       
 ## ⚖️ License
 ✔️ MIT License.
